@@ -1,0 +1,21 @@
+.table {
+    background-color: #f9f4ed;
+    border-collapse: collapse;
+    cursor: pointer;
+    width: 300px;
+}
+
+.row {
+    border: 1px solid rgb(82, 77, 77);
+}
+
+.table td {
+    padding: 5px;
+    border: 1 px solid rgb(145, 133, 133);
+    text-align: center;
+    margin-top: 5px;
+}
+
+.start {
+    background-color: yellow;
+}
